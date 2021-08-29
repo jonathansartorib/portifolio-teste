@@ -35,7 +35,7 @@ text-decoration: none;
 
 .line{
     width: 100%;
-    height: 1rem;
+    height: 0.1rem;
     background-color: #fff;
     box-shadow: 0.1rem 0.1rem 1px #000;
     transition: transform 1s;
@@ -56,7 +56,7 @@ visibility: hidden;
 
 .hamburguer span{
     position: absolute;
-    left: 3rem;
+    left: 4rem;
     width: 6rem;
     height: 2rem;
     display: flex;
@@ -121,7 +121,7 @@ header{
 }
 
 .banner h1{
-    color: #ffffff;
+    color: #fff;
     font-size: 3.5rem;
     font-family: "Baloo Da 2", serif;
     font-weight: 200;
